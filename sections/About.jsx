@@ -23,14 +23,14 @@ const About = () => (
         <span className="font-extrabold text-white">Metaverse</span> is a new
         thing in the future, where you can enjoy yhr virtual world by feeling
         like it's really real, you can feel what you feel in this metaverse
-        world, because this is really
+        world, because this is really{" "}
         <span className="font-extrabold text-white">
           the madness of the metaverse
-        </span>
-        of today, using only the madness of the metaverse
-        <span className="font-extrabold text-white">VR</span>
-        devices you can easily explore the metaverse world you want, turn your
-        dreams into reality. let's
+        </span>{" "}
+        of today, using only the madness of the metaverse{" "}
+        <span className="font-extrabold text-white">VR</span> devices you can
+        easily explore the metaverse world you want, turn your dreams into
+        reality. let's{" "}
         <span className="font-extrabold text-white">explore</span> the madness
         of the metaverse by scrolling down.
       </motion.p>
